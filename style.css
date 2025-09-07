@@ -3,20 +3,12 @@ header{
   margin:-8px;
   color:white;
   font-family:sans-serif;
-  position:static;
+  position:fixed;
+  width:100%;
+  margin-bottom:50px;
 }
 header img{
   position:relative;
   top:15px;
 }
-main p{
-  font-size:100px;
-  font-family:sans-serif;
-  margin-top:2050px;
-}
-main p:hover{
-  font-size:250px;
-  color:red;
-  transition: color,font-size 0.5s ease-out 0.5s;
-  
-}
+
