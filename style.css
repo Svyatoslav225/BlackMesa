@@ -1,10 +1,13 @@
 header{
-  display:inline-block;
   background-color:#001830;
   margin:-8px;
   color:white;
   font-family:sans-serif;
   position:static;
+}
+header img{
+  position:relative;
+  top:15px;
 }
 main p{
   font-size:100px;
