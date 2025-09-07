@@ -17,6 +17,6 @@ main p{
 main p:hover{
   font-size:250px;
   color:red;
-  transition:font-size,color 2s ease-out 2s;
+  transition: color,font-size 0.5s ease-out 0.5s;
   
 }
